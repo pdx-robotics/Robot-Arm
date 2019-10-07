@@ -7,3 +7,8 @@ The idea of this project is to build a 5-DOF Robot Arm that will be able to draw
 ## Terminology
 
 ![Robot Arm Terminology](terminology.png)
+
+## Parts
+We are using 1 stepper motor (picture) for the base and 4 dynamixel AX-12A
+
+![stepper motor](stepper.jpg)
