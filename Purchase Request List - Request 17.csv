@@ -4,11 +4,11 @@ Provide a backup purchase link for all purchases. Requests take a while to proce
 Budget Request #:,Request 17,Date Submitted:,TBD,Date Approved:,TBD,,,,,,,,,,,
 Notes,This Purchase Request is for supply for the begining of the term,,,Amount Approved:,,,,,,,,,,,,
 ,,,Preferred Purchase Option,,,,,,,Backup Purchase Option,,,,,,
-Reason for Purchase,Items,Notes,Count in one order,# of orders to get,Cost per order,S&H,Total w/ S&H,Link,Notes,Count in one order,# of orders to get,Cost per order,S&H,Total w/ S&H,Link,Notes
+,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 Overall Total,,,,,,$24.46 ,$510.50 ,,,Overall Total,,,$0.00 ,$0.00 ,,
-,,,,,,,,,,,,,,,,
+Reason for Purchase,Items,Notes,Count in one order,# of orders to get,Cost per order,S&H,Total w/ S&H,Link,Notes,Count in one order,# of orders to get,Cost per order,S&H,Total w/ S&H,Link,Notes
 Robot Arm Project,Raspberry Pi 3,,1,1,$57.89 ,,$57.89 ,https://www.amazon.com/ELEMENT-Element14-Raspberry-Pi-Motherboard/dp/B07P4LSDYV/ref=sr_1_5?keywords=raspberry+pi+3+B%2B&qid=1572327255&sr=8-5,,,,,,,,
 Robot Arm Project,"Ar-BotiX-M Robo
  Controller",,1,1,$39.95 ,,$39.95 ,https://www.trossenrobotics.com/p/arbotix-robot-controller.aspx,,,,,,,,
