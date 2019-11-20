@@ -1,0 +1,8 @@
+Shoulder Gear (Non-fillet):
+Documents --> GitHub --> Robot-Arm --> hardware --> models --> V4_Separate_Base_Gears --> shoulder_gear_non_fillet_final_print
+
+Base Gear Shaft (Non-fillet):
+Documents --> GitHub --> Robot-Arm --> hardware --> models --> assembledArm --> BaseGearShaft_NonFillet
+
+Base Gear Shaft (Fillet)
+Documents --> GitHub --> Robot-Arm --> hardware --> models --> assembledArm --> BaseGearShaft_Fillet
