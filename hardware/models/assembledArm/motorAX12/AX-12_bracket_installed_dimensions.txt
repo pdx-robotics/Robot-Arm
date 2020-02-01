@@ -1,4 +1,7 @@
 70 mm x 31.5mm
 4mm fillet
+39.8mm high
+Hole will be 20mm deep, leaving a 19.8mm opening
+
 2mm gap between cavity and the hole circle
 52mm gap between center of hole circle and the base edge
