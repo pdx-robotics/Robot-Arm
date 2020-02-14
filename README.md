@@ -10,6 +10,6 @@ The idea of this project is to build a 5-DOF Robot Arm that will be able to draw
 
 ## Current Progress
 
-![Version 2](img\img3.jpg)
+![Version 2](img/img3.jpg)
 
-![Version 2](img\img2.jpg)
+![Version 2](img/img2.jpg)
